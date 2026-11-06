@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Enterprise HR & Directory",
+  "description": "Corporate Employee Directory and HR Management System with real-time profile synchronization, interactive organizational charts, and role-secured document vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
